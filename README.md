@@ -15,5 +15,6 @@ Functionality:
 1. add/update/delete events
 2. change months and get back to current date
 
-![image](https://github.com/neonexus22/google-calendar-react/assets/17468878/07b25ad1-d516-4d7f-a512-01662c1b0dcd)
+![image](https://github.com/neonexus22/google-calendar-react/assets/17468878/116b9808-7734-4caf-b993-76bed72e7a23)
+
 
